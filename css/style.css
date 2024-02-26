@@ -25,7 +25,7 @@ img{
   position: relative;
   width: 70%;
   height: 60%;
-  background-color: #fff;
+  /* background-color: #fff; */
   border-radius: 5px;
 }
 
@@ -58,12 +58,12 @@ img{
   color: black;
 }
 
-.btn-chevron.top{
+.top{
   top: 5%;
   left: 50%;
 }
 
-.btn-chevron.bottom{
+.bottom{
   left: 50%;
   bottom: -2%;
 }
